@@ -1,0 +1,685 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Media Buttons Toolbar\n"
+"POT-Creation-Date: 2017-03-22 23:33+0300\n"
+"PO-Revision-Date: 2017-03-22 23:33+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: social-media-buttons-toolbar.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: inc/php/settings_page.php:21 social-media-buttons-toolbar.php:120
+msgid "Social Media Follow Buttons Bar"
+msgstr ""
+
+#: inc/php/settings_page.php:24
+msgid ""
+"by <a href=\"http://www.arthurgareginyan.com\" target=\"_blank\">Arthur "
+"Gareginyan</a>"
+msgstr ""
+"от <a href=\"http://www.arthurgareginyan.com\" target=\"_blank\">Артур "
+"Гарегинян</a>"
+
+#: inc/php/settings_page.php:32 social-media-buttons-toolbar.php:88
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/php/settings_page.php:33 inc/php/settings_page.php:53
+msgid "Usage"
+msgstr "Применение"
+
+#: inc/php/settings_page.php:34
+msgid "F.A.Q."
+msgstr "F.A.Q."
+
+#: inc/php/settings_page.php:35 inc/php/settings_page.php:120
+msgid "Author"
+msgstr "Автор"
+
+#: inc/php/settings_page.php:36 inc/php/settings_page.php:129
+#: inc/php/settings_tab.php:36
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/php/settings_page.php:37
+msgid "Family"
+msgstr "Семья"
+
+#: inc/php/settings_page.php:55
+msgid ""
+"You have several methods for display the social media follow buttons bar "
+"(further just \"bar\") on your website. But first, fill in the required "
+"fields, then click \"Save Changes\"."
+msgstr ""
+"У вас есть несколько способов для того, чтобы отобразить блок социальных "
+"медиа кнопок (далее просто “кнопки”) на вашем вебсайте. Но сначала заполните "
+"поля для каждой нужной кнопки, а затем нажмите “Сохранить изменения”."
+
+#: inc/php/settings_page.php:56
+msgid ""
+"<b>A)</b> For display the bar below content on every Posts or/and Pages, "
+"just check the checkbox \"Show on Posts\" or/and \"Show on Pages\" in the "
+"section \"Display options\", then click \"Save Changes\". It's that simple!"
+msgstr ""
+
+#: inc/php/settings_page.php:57
+msgid ""
+"<b>B)</b> For add the bar inside a post from WP Post/Page Editor use the "
+"following shortcode:"
+msgstr ""
+
+#: inc/php/settings_page.php:59
+msgid ""
+"<b>C)</b> For add the bar to the widget area (in sidebar, footer etc.) use "
+"the \"Text\" widget and add inside it the following shortcode:"
+msgstr ""
+
+#: inc/php/settings_page.php:61
+msgid ""
+"<b>D)</b> For add the bar directly to a theme files, just add one of the "
+"following code (both variants do the same) to needed place (where you want "
+"to display the bar) in your theme files:"
+msgstr ""
+
+#: inc/php/settings_page.php:64
+msgid ""
+"It's that simple! If you want more options then tell me and I will be happy "
+"to add it."
+msgstr ""
+"Это так просто! Если вы хотите иметь больше опций, то скажите мне об этом и "
+"я буду счастлив добавить их."
+
+#: inc/php/settings_page.php:73
+msgid "Frequent Questions"
+msgstr "Частые вопросы"
+
+#: inc/php/settings_page.php:76
+msgid "Will this plugin work on my WordPress.COM website?"
+msgstr "Этот плагин будет работать на моем сайте WordPress.COM?"
+
+#: inc/php/settings_page.php:77
+msgid ""
+"Sorry, this plugin is available for use only on self-hosted (WordPress.org) "
+"websites."
+msgstr ""
+
+#: inc/php/settings_page.php:80
+msgid "Can I use this plugin on my language?"
+msgstr "Можно ли использовать этот плагин на моём языке?"
+
+#: inc/php/settings_page.php:81
+msgid ""
+"Yes. But If your language is not available then you can make one. This "
+"plugin is ready for translation. The<code>.pot</code>file is included and "
+"placed in <code>languages</code> folder. Many of plugin users would be "
+"delighted if you shared your translation with the community. Just send the "
+"translation files (<code>*.po, *.mo</code>) to me at the <a href=\"mailto:"
+"arthurgareginyan@gmail.com?subject=Social Media Follow Buttons Bar"
+"\">arthurgareginyan@gmail.com</a> and I will include the translation within "
+"the next plugin update."
+msgstr ""
+
+#: inc/php/settings_page.php:84
+msgid "How does it work?"
+msgstr "Как оно работает?"
+
+#: inc/php/settings_page.php:85
+msgid ""
+"First, go to page <code>Settings</code> &#8680; <code>Social Buttons</code>."
+msgstr ""
+
+#: inc/php/settings_page.php:86
+msgid ""
+"On the plugins page you find the fields where you can enter your<code>User "
+"ID's</code>,<code>URL</code>to your social network profile."
+msgstr ""
+
+#: inc/php/settings_page.php:89
+msgid "Does this plugin require modification to the theme?"
+msgstr ""
+
+#: inc/php/settings_page.php:90
+msgid ""
+"Absolutely not. This plugin is added/configured entirely from the website's "
+"Admin section."
+msgstr ""
+
+#: inc/php/settings_page.php:93
+msgid "Does this require any knowledge of HTML or CSS?"
+msgstr ""
+
+#: inc/php/settings_page.php:94
+msgid ""
+"Absolutely not. This plugin can be configured with no knowledge of HTML or "
+"CSS, using a simple WordPress settings page."
+msgstr ""
+
+#: inc/php/settings_page.php:97
+msgid "It's not working. What could be wrong?"
+msgstr "Оно не работает. Что может быть не так?"
+
+#: inc/php/settings_page.php:98
+msgid ""
+"As with every plugin, it's possible that things don't work. The most common "
+"reason for this is that the plugin has a conflict with another plugin you're "
+"using. It's impossible to tell what could be wrong exactly, but if you post "
+"a support request in the plugin's support forum on WordPress.org, I'd be "
+"happy to give it a look and try to help out. Please include as much "
+"information as possible, including a link to your website where the problem "
+"can be seen."
+msgstr ""
+
+#: inc/php/settings_page.php:101
+msgid "Where to report bug if found?"
+msgstr "Где можно сообщить об ошибке?"
+
+#: inc/php/settings_page.php:105
+msgid "Where to share any ideas or suggestions to make the plugin better?"
+msgstr ""
+
+#: inc/php/settings_page.php:109
+msgid "I love this plugin! Can I help somehow?"
+msgstr "Я очень люблю этот плагин! Могу Я чем-то помочь?"
+
+#: inc/php/settings_tab.php:21
+msgid "About"
+msgstr "О плагине"
+
+#: inc/php/settings_tab.php:23
+msgid ""
+"This plugin allows you to easily add the social media buttons toolbar to any "
+"place of your website."
+msgstr ""
+"Этот плагин позволяет легко добавить блок социальных медиа кнопок в любое "
+"место на вашем веб-сайте."
+
+#: inc/php/settings_tab.php:28
+msgid "Help"
+msgstr "Помощь"
+
+#: inc/php/settings_tab.php:30
+msgid "Got something to say? Need help?"
+msgstr "Есть что сказать? Нужна помощь?"
+
+#: inc/php/settings_tab.php:38
+msgid ""
+"I'm an independent developer, without a regular income, so every little "
+"contribution helps cover my costs and lets me spend more time building "
+"things for people like you to enjoy."
+msgstr ""
+"Я независимый разработчик, без регулярного дохода, так что каждый маленький "
+"вклад помогает мне покрыть затраты и позволяет тратить больше времени на "
+"создание программ для людей как вы."
+
+#: inc/php/settings_tab.php:39
+msgid "Donate with PayPal"
+msgstr ""
+
+#: inc/php/settings_tab.php:40
+msgid "Thanks for your support!"
+msgstr "Спасибо за вашу поддержку!"
+
+#: inc/php/settings_tab.php:62
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: inc/php/settings_tab.php:64
+msgid ""
+"Just fill in the required fields to make a buttons. The social networking "
+"buttons will lead directly to your profile pages. If you don't want to use "
+"any of the following buttons, you can not fill them and then they do not "
+"appear."
+msgstr ""
+"Просто заполните необходимые поля, чтобы создать кнопки. Кнопки социальных "
+"медиа будут вести непосредственно к вашим страницам профиля. Если вы не "
+"хотите использовать любой из следующих кнопок, то вы можете не заполнить их "
+"и тогда они не появятся."
+
+#: inc/php/settings_tab.php:69
+msgid "Enter the link to your Facebook profile page"
+msgstr "Введите ссылку на вашу страницу профиля Facebook"
+
+#: inc/php/settings_tab.php:75
+msgid "Enter the link to your Twitter profile page"
+msgstr "Введите ссылку на вашу страницу профиля Twitter"
+
+#: inc/php/settings_tab.php:81
+msgid "Enter the link to your Instagram profile page"
+msgstr "Введите ссылку на вашу страницу профиля Instagram"
+
+#: inc/php/settings_tab.php:87
+msgid "Enter the link to your Google+ profile page"
+msgstr "Введите ссылку на вашу страницу профиля Google+"
+
+#: inc/php/settings_tab.php:93
+msgid "Enter the link to your YouTube profile page"
+msgstr "Введите ссылку на вашу страницу профиля YouTube"
+
+#: inc/php/settings_tab.php:99
+msgid "Enter the link to your Vimeo profile page"
+msgstr "Введите ссылку на вашу страницу профиля Vimeo"
+
+#: inc/php/settings_tab.php:105
+msgid "Enter the link to your Blogger profile page"
+msgstr "Введите ссылку на вашу страницу профиля Blogger"
+
+#: inc/php/settings_tab.php:111
+msgid "Enter the link to your LiveJournal profile page"
+msgstr "Введите ссылку на вашу страницу профиля LiveJournal"
+
+#: inc/php/settings_tab.php:117
+msgid "Enter the link to your Reddit profile page"
+msgstr "Введите ссылку на вашу страницу профиля Reddit"
+
+#: inc/php/settings_tab.php:123
+msgid "Enter the link to your LinkedIn profile page"
+msgstr "Введите ссылку на вашу страницу профиля LinkedIn"
+
+#: inc/php/settings_tab.php:129
+msgid "Enter the link to your Pinterest profile page"
+msgstr "Введите ссылку на вашу страницу профиля Pinterest"
+
+#: inc/php/settings_tab.php:135
+msgid "Enter the link to your Tumblr profile page"
+msgstr "Введите ссылку на вашу страницу профиля Tumblr"
+
+#: inc/php/settings_tab.php:141
+msgid "Enter the link to your Snapchat profile page"
+msgstr "Введите ссылку на вашу страницу профиля Snapchat"
+
+#: inc/php/settings_tab.php:147
+msgid "Enter the link to your Twitch profile page"
+msgstr "Введите ссылку на вашу страницу профиля Twitch"
+
+#: inc/php/settings_tab.php:153
+msgid "Enter the link to your Patreon profile page"
+msgstr "Введите ссылку на вашу страницу профиля Patreon"
+
+#: inc/php/settings_tab.php:159
+msgid "Enter the link to your IMDb profile page"
+msgstr "Введите ссылку на вашу страницу профиля IMDb"
+
+#: inc/php/settings_tab.php:165
+msgid "Enter the link to your SoundCloud profile page"
+msgstr "Введите ссылку на вашу страницу профиля SoundCloud"
+
+#: inc/php/settings_tab.php:171
+msgid "Enter the link to your Spotify profile page"
+msgstr "Введите ссылку на вашу страницу профиля Spotify"
+
+#: inc/php/settings_tab.php:177
+msgid "Enter the link to your Dloky profile page"
+msgstr "Введите ссылку на вашу страницу профиля Dloky"
+
+#: inc/php/settings_tab.php:183
+msgid "Enter the link to your Goodreads profile page"
+msgstr "Введите ссылку на вашу страницу профиля Goodreads"
+
+#: inc/php/settings_tab.php:189
+msgid "Enter the link to your MeetVibe profile page"
+msgstr "Введите ссылку на вашу страницу профиля MeetVibe"
+
+#: inc/php/settings_tab.php:195
+msgid "Enter the link to your Meetup profile page"
+msgstr "Введите ссылку на вашу страницу профиля Meetup"
+
+#: inc/php/settings_tab.php:201
+msgid "Enter the link to your Steam profile page"
+msgstr "Введите ссылку на вашу страницу профиля Steam"
+
+#: inc/php/settings_tab.php:207
+msgid "Enter the link to your Discord profile page"
+msgstr "Введите ссылку на вашу страницу профиля Discord"
+
+#: inc/php/settings_tab.php:213
+msgid "Enter the link to your Yelp profile page"
+msgstr "Введите ссылку на вашу страницу профиля Yelp"
+
+#: inc/php/settings_tab.php:219
+msgid "Enter the link to your VKontakte profile page"
+msgstr "Введите ссылку на вашу страницу профиля ВКонтакте"
+
+#: inc/php/settings_tab.php:225
+msgid "Enter the link to your Odnoklassniki profile page"
+msgstr "Введите ссылку на вашу страницу профиля Одноклассники"
+
+#: inc/php/settings_tab.php:231
+msgid "Enter the link to your Telegram profile page"
+msgstr "Введите ссылку на вашу страницу профиля Telegram"
+
+#: inc/php/settings_tab.php:237
+msgid "Enter the link to your GitHub profile page"
+msgstr "Введите ссылку на вашу страницу профиля GitHub"
+
+#: inc/php/settings_tab.php:243
+msgid "Enter the link to your WordPress profile page"
+msgstr "Введите ссылку на вашу страницу профиля WordPress"
+
+#: inc/php/settings_tab.php:249
+msgid "Enter the link to your CodePen profile page"
+msgstr "Введите ссылку на вашу страницу профиля CodePen"
+
+#: inc/php/settings_tab.php:255
+msgid ""
+"Enter your Skype name with prefix <b>skype:</b> and suffix <b>?call</b>, or "
+"<b>?add</b>, or <b>?chat</b>, or <b>?userinfo</b> for view profile"
+msgstr ""
+"Введите свое имя в Skype с приставкой <b>skype:</b> и суффиксом <b>?call</"
+"b>, или <b>?add</b>, или <b>?chat</b>, или <b>?userinfo</b> для просмотра "
+"профиля"
+
+#: inc/php/settings_tab.php:261
+msgid "Enter the link to your personal website"
+msgstr "Введите ссылку на ваш персональный сайт"
+
+#: inc/php/settings_tab.php:267
+msgid "Enter your email address with prefix <b>mailto:</b>"
+msgstr "Введите адрес электронной почты с префиксом <b>mailto:</b>"
+
+#: inc/php/settings_tab.php:273
+msgid "Enter the link to your RSS Feed"
+msgstr "Введите ссылку на ваш RSS поток"
+
+#: inc/php/settings_tab.php:277 inc/php/settings_tab.php:359
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: inc/php/settings_tab.php:282
+msgid "Display options"
+msgstr "Настройки отображения"
+
+#: inc/php/settings_tab.php:287
+msgid "Show on Posts"
+msgstr "Показать в записях"
+
+#: inc/php/settings_tab.php:288
+msgid "Display toolbar below content on Posts."
+msgstr "Показывать кнопки под содержанием в записях"
+
+#: inc/php/settings_tab.php:292
+msgid "Show on Pages"
+msgstr "Показывать на страницах"
+
+#: inc/php/settings_tab.php:293
+msgid "Display toolbar below content on Pages."
+msgstr "Показывать кнопки под содержанием на страницах"
+
+#: inc/php/settings_tab.php:297
+msgid "Open in new tab"
+msgstr "Открыть в новой вкладке"
+
+#: inc/php/settings_tab.php:298
+msgid "Open link in a new tab/window."
+msgstr "Открыть ссылку в новом окне/вкладке"
+
+#: inc/php/settings_tab.php:302
+msgid "Tooltips"
+msgstr "Подсказки"
+
+#: inc/php/settings_tab.php:303
+msgid ""
+"Enable/disable a tooltips with name of the social media above every button."
+msgstr ""
+"Включить/отключить всплывающие подсказки с названием социальных медиа над "
+"каждой кнопкой."
+
+#: inc/php/settings_tab.php:307
+msgid "Icon size"
+msgstr "Размер иконки"
+
+#: inc/php/settings_tab.php:308
+msgid "Enter the size of icons (in px) in your social media buttons toolbar."
+msgstr ""
+"Введите размер иконок (в пикселях) для вашей панели социальных медиа кнопок."
+
+#: inc/php/settings_tab.php:314
+msgid "Margin"
+msgstr "Отступ"
+
+#: inc/php/settings_tab.php:315
+msgid ""
+"Enter the size of space (in px) between icons in your social media buttons "
+"toolbar."
+msgstr ""
+"Введите размер пространства (в пикселях) между иконками для вашей панели "
+"социальных медиа кнопок."
+
+#: inc/php/settings_tab.php:331
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: inc/php/settings_tab.php:337
+msgid "Left"
+msgstr "Слева"
+
+#: inc/php/settings_tab.php:341
+msgid "Center"
+msgstr "По центру"
+
+#: inc/php/settings_tab.php:345
+msgid "Right"
+msgstr "Справа"
+
+#: inc/php/settings_tab.php:352
+msgid "Caption"
+msgstr "Заголовок"
+
+#: inc/php/settings_tab.php:353
+msgid ""
+"Enter the caption to your social media buttons toolbar. It will be displays "
+"before the toolbar."
+msgstr ""
+"Введите заголовок для блока с кнопками социальных медиа. Он будет отображает "
+"над панелью."
+
+#: inc/php/settings_tab.php:364
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#: inc/php/settings_tab.php:366
+msgid "Click \"Save Changes\" to update this preview."
+msgstr ""
+"Нажмите кнопку «Сохранить изменения», чтобы обновить этот пред. просмотр."
+
+#: social-media-buttons-toolbar.php:104
+msgid "Donate"
+msgstr "Поддержать разработку"
+
+#: social-media-buttons-toolbar.php:120
+msgid "Social Media Follow Buttons"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/ArthurGareginyan/social-media-buttons-toolbar"
+msgstr "https://github.com/ArthurGareginyan/social-media-buttons-toolbar"
+
+#. Description of the plugin/theme
+msgid ""
+"Easily add the smart bar with social media follow buttons (not share, only "
+"link to your profiles) to any place of your WordPress website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Arthur Gareginyan"
+msgstr "Артур Гарегинян"
+
+#. Author URI of the plugin/theme
+msgid "http://www.arthurgareginyan.com"
+msgstr "http://www.arthurgareginyan.com"
+
+#~ msgid ""
+#~ "You have several methods for display the social media buttons toolbar "
+#~ "(further just \"toolbar\") on your website. But first, fill in the "
+#~ "required fields, then click \"Save Changes\"."
+#~ msgstr ""
+#~ "У вас есть несколько способов для того, чтобы отобразить блок социальных "
+#~ "медиа кнопок (далее просто “кнопки”) на вашем вебсайте. Но сначала "
+#~ "заполните поля для каждой нужной кнопки, а затем нажмите “Сохранить "
+#~ "изменения”."
+
+#~ msgid "Social Media Buttons Toolbar"
+#~ msgstr "Social Media Buttons Toolbar"
+
+#~ msgid "Social Buttons"
+#~ msgstr "Социальные кнопки"
+
+#~ msgid ""
+#~ "Easily add the smart toolbar with social media buttons (not share, only "
+#~ "link to your profiles) to any place of your WordPress website."
+#~ msgstr ""
+#~ "Легко добавьте умный блок с кнопками социальных медиа (не расшаривание, а "
+#~ "только ссылки на ваши профили) в любое место вашего WordPress веб-сайта."
+
+#~ msgid "Using"
+#~ msgstr "Как пользоваться"
+
+#~ msgid "Display toolbar below content on Posts"
+#~ msgstr "Показывать кнопки под содержанием в записях"
+
+#~ msgid "Display toolbar below content on Pages"
+#~ msgstr "Показывать кнопки под содержанием на страницах"
+
+#~ msgid "Open link in new tab/window"
+#~ msgstr "Открыть ссылку в новом окне/вкладке"
+
+#~ msgid "Margin right"
+#~ msgstr "Отступ справа"
+
+#~ msgid "Advertisement"
+#~ msgstr "Реклама"
+
+#~ msgid ""
+#~ "Enter your Skype name with prefix <b>skype:</b> and suffix <b>?call</b>, "
+#~ "or <b>?add</b>, or <b>?chat</b>, or <b>?userinfo</b> for view profile."
+#~ msgstr ""
+#~ "Введите свое имя в Skype с приставкой <b>skype:</b> и суффиксом <b>?call</"
+#~ "b>, или <b>?add</b>, или <b>?chat</b>, или <b>?userinfo</b> для просмотра "
+#~ "профиля."
+
+#~ msgid ""
+#~ "If you like this plugin and find it useful, please help me to make this "
+#~ "plugin even better and keep it up-to-date."
+#~ msgstr ""
+#~ "Если вам нравится этот плагин и вы находите его полезным, то пожалуйста "
+#~ "помогите мне сделать его ещё лучше."
+
+#~ msgid "Enter the link to your Github profile page"
+#~ msgstr "Введите ссылку на вашу страницу профиля Github"
+
+#~ msgid "Enter the link to your Codepen profile page"
+#~ msgstr "Введите ссылку на вашу страницу профиля Codepen"
+
+#~ msgid "Enter the link to your RSS Fedd"
+#~ msgstr "Введите ссылку на ваш RSS Feed"
+
+#~ msgid ""
+#~ "Enter your User ID for each service you choose below to make the button "
+#~ "link directly to your profile. If you don't want to use any of the "
+#~ "following options, you can just forget about these."
+#~ msgstr ""
+#~ "Введите ваш ID пользователя для каждой службы, которую вы выберите ниже, "
+#~ "чтобы создать кнопку с ссылкой на свой профиль. Если вы не хотите "
+#~ "использовать какие-либо из следующих опций, то вы можете просто забыть о "
+#~ "них."
+
+#~ msgid ""
+#~ "Enter your User ID's, then click  \"Save Changes\" to update this preview."
+#~ msgstr ""
+#~ "Введите ваши ID пользователя, а затем нажмите кнопку “Сохранить "
+#~ "изменения”, чтобы обновить этот просмотр."
+
+#~ msgid ""
+#~ "You have several methods for display the social media buttons toolbar "
+#~ "(further just \"toolbar\") on your website. But first, enter a links for "
+#~ "each buttons, then click \"Save Changes\"."
+#~ msgstr ""
+#~ "У вас есть несколько способов для того, чтобы отобразить блок социальных "
+#~ "медиа кнопок (далее просто “кнопки”) на вашем вебсайте. Но сначала "
+#~ "укажите ссылки для каждой кнопки, а затем нажмите “Сохранить изменения”."
+
+#~ msgid "Advertising"
+#~ msgstr "Реклама"
+
+#~ msgid ""
+#~ "by <a href=\"http://www.arthurgareginyan.com\" target=\"_blank\">Arthur "
+#~ "\"Berserkr\" Gareginyan</a>"
+#~ msgstr ""
+#~ "от <a href=“http://www.arthurgareginyan.com” target=“_blank”>Артур "
+#~ "“Berserkr” Гарегинян</a>"
+
+#~ msgid "If you want more options then tell me and I will be happy to add it."
+#~ msgstr ""
+#~ "Если вы хотите больше опций, то скажите мне об этом и я буду счастлив "
+#~ "добавить их."
+
+#~ msgid ""
+#~ "If you like this plugin and find it useful, help me to make this plugin "
+#~ "even better and keep it up-to-date."
+#~ msgstr ""
+#~ "Если вам нравится этот плагин и вы находите его полезным, то помогите мне "
+#~ "сделать этот плагин ещё лучше и держать его современным."
+
+#~ msgid "Freelance"
+#~ msgstr "Фриланс"
+
+#~ msgid ""
+#~ "Hello, my name is Arthur and I'm a freelance web designer and developer."
+#~ msgstr "Привет, меня зовут Артур и Я внештатный веб-дизайнер и разработчик."
+
+#~ msgid ""
+#~ "Share your thoughts with me. You may have a brilliant idea in your mind "
+#~ "and I can make it happen, so let’s get started!"
+#~ msgstr ""
+#~ "Поделитесь со мной своими мыслями. У вас может быть блестящая идея в уме, "
+#~ "а я могу сделать её явью, так что давайте начнём!"
+
+#~ msgid ""
+#~ "Easily add the smart toolbar with social media buttons (not share, only "
+#~ "link to your profiles) to any place of your WordPress web-site."
+#~ msgstr ""
+#~ "Легко добавьте умный блок с кнопками социальных медиа (не расшаривание, а "
+#~ "только ссылки на ваши профили) в любое место вашего WordPress веб-сайта."
+
+#~ msgid "Arthur \"Berserkr\" Gareginyan"
+#~ msgstr "Артур “Берсеркр” Гарегинян"
+
+#~ msgid ""
+#~ "This plugin allows you to easily add the social media buttons toolbar to "
+#~ "any place of your web-site."
+#~ msgstr ""
+#~ "Этот плагин позволяет легко добавить блок социальных медиа кнопок в любое "
+#~ "место на вашем веб-сайте."
+
+#~ msgid ""
+#~ "To use, enter your User ID's, then click \"Save Changes\". It's that "
+#~ "simple!"
+#~ msgstr ""
+#~ "Для использования, введите ваши ID пользователя, затем нажмите кнопку "
+#~ "“Сохранить изменения”. Это так просто!"
+
+#~ msgid "User ID’s"
+#~ msgstr "ID Пользователя"
+
+#~ msgid "Your options was sucessfully updated."
+#~ msgstr "Ваши опции были успешно обновлены."
+
+#~ msgid ""
+#~ "Easily add the smart toolbar with social media buttons to any place of "
+#~ "your WordPress web-site."
+#~ msgstr ""
+#~ "Легко добавьте умный блок с кнопками социальных медиа в любое место "
+#~ "вашего WordPress веб-сайта."
